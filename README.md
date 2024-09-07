@@ -41,7 +41,8 @@ vim todo.txt
 ```bash
 i # to edit your txt file
 Then, esc + :wq # to quit in editing the txt
-enter + wq! # to exit 
+:wq # to exitin txt
+
 ```
 
 
