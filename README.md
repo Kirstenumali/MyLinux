@@ -53,4 +53,8 @@ vim todo.txt
 
 
 
+**to read the .txt**
+```bash
+cat todo.txt
+```
 
