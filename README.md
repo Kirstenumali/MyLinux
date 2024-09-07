@@ -31,7 +31,20 @@ mkdir todo
 cd path/ 
 ```
 
-**to basic in Linux that you should know**
+**to edit the file txt. and any files**
+```bash
+vim todo.txt
+```
+
+
+*master vim on txt. file*
+```bash
+i # to edit your txt file
+Then, esc + wq! #to quit in editing the txt
+```
+
+
+**to edit **
 ```bash
 vim todo.txt
 ```
