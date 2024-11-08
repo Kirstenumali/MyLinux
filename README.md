@@ -58,3 +58,24 @@ vim todo.txt
 cat todo.txt
 ```
 
+**This is to rename the files**
+```bash
+cp kirsten kirsten1
+```
+
+**This creates an empty file**
+```bash
+touch
+```
+
+**This is use to delete the files**
+```bash
+rm
+```
+
+**This makes the sreen clear**
+```bash
+clear
+```
+
+
