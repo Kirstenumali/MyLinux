@@ -78,4 +78,10 @@ rm
 clear
 ```
 
+**This is when yuo check the files beginning or end**
+```bash
+head <file name>
+
+```
+tail <file name>
 
